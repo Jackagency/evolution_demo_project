@@ -54,7 +54,7 @@ public class MainPageTests extends TestBase {
             $(".show-search", 1).click();
         });
 
-        step("Set Stockholm in the search field", () -> {
+        step("Set Development in the search field", () -> {
             $("[name=apachesolr_panels_search_form]").setValue("Development").pressEnter();
         });
 
@@ -79,7 +79,7 @@ public class MainPageTests extends TestBase {
             $(".show-search", 1).click();
         });
 
-        step("Set Stockholm in the search field", () -> {
+        step("Set Quality in the search field", () -> {
             $("[name=apachesolr_panels_search_form]").setValue("Quality").pressEnter();
         });
 
