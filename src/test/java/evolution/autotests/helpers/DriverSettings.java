@@ -1,6 +1,6 @@
-package cloud.autotests.helpers;
+package evolution.autotests.helpers;
 
-import cloud.autotests.config.Project;
+import evolution.autotests.config.Project;
 import com.codeborne.selenide.Configuration;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;

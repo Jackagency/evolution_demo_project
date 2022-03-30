@@ -1,6 +1,6 @@
-package cloud.autotests.tests;
+package evolution.autotests.tests;
 
-import cloud.autotests.helpers.DriverUtils;
+import evolution.autotests.helpers.DriverUtils;
 import io.qameta.allure.Description;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
